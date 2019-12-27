@@ -16,3 +16,8 @@ Step :
 - run docker build -t netCoreTest .
 - run docker run -d -p 8080:80 --name netcoretest netCoreTest
 - open in browser : serveraddress:8080
+
+Change log :
+2019-12-27 : 
+- upgraded to .NetCore.App v2.2
+- upgraded to AspNetCore.All v.2.2.8
